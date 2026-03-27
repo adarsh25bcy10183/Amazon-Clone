@@ -22,18 +22,6 @@ A fully responsive Amazon homepage clone built using **HTML and CSS**, replicati
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
-## 🌐 Live Demo
-
-(Add your deployed project link here - e.g., Netlify / GitHub Pages)
-
----
-
 ## 📂 Project Structure
 
 amazon-clone/
